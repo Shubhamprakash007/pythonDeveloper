@@ -5,7 +5,7 @@
 
 This repo contains code of topics mentioned below:
 
-##Core python or functional programming
+## Core python or functional programming
 - Language fundamentals
 - Operators
 - Input and output statements
@@ -19,8 +19,7 @@ This repo contains code of topics mentioned below:
 - Modules
 - Packages 
 
-
-##Advance python or class 
+## Advance python or class 
 - Exception handling
 - Logging module
 - Assertions
